@@ -1,0 +1,6 @@
+{
+  "name": "BMI Tracker",
+  "description": "A minimalist, modern BMI calculator and weight logger with visual trends, goals, and secure personalized profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
